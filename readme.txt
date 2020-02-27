@@ -7,3 +7,5 @@ Add in local dev branch
 Add again in local dev branch
 Update 1 from dev1
 Update 2 from dev1
+Update 1 from dev2
+Update 2 from dev2
